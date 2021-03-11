@@ -6,3 +6,4 @@ __pycache__
 *.sw[px]
 *$py.class
 *.csd
+*.hdf
